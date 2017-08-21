@@ -1,0 +1,6 @@
+c:\users\adam-mac13\documents\visual studio 2015\Projects\PythonInterpreter\PythonInterpreter\bin\Debug\PythonInterpreter.exe.config
+c:\users\adam-mac13\documents\visual studio 2015\Projects\PythonInterpreter\PythonInterpreter\bin\Debug\PythonInterpreter.exe
+c:\users\adam-mac13\documents\visual studio 2015\Projects\PythonInterpreter\PythonInterpreter\bin\Debug\PythonInterpreter.pdb
+c:\users\adam-mac13\documents\visual studio 2015\Projects\PythonInterpreter\PythonInterpreter\obj\Debug\PythonInterpreter.csprojResolveAssemblyReference.cache
+c:\users\adam-mac13\documents\visual studio 2015\Projects\PythonInterpreter\PythonInterpreter\obj\Debug\PythonInterpreter.exe
+c:\users\adam-mac13\documents\visual studio 2015\Projects\PythonInterpreter\PythonInterpreter\obj\Debug\PythonInterpreter.pdb

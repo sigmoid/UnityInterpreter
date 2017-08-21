@@ -1,0 +1,9 @@
+C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\bin\Debug\InterpreterTestSuite.dll
+C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\bin\Debug\InterpreterTestSuite.pdb
+C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\bin\Debug\PythonInterpreter.exe
+C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\bin\Debug\PythonInterpreter.pdb
+C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.csprojResolveAssemblyReference.cache
+C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.dll
+C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.pdb

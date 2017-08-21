@@ -1,0 +1,14 @@
+function main(int foo, int bar)
+{
+int x;
+	{
+		int a;
+		a = 2;
+		int b;
+		b = 0;
+
+		a = b;
+		a = a + b;
+	}
+x = 11;
+}
