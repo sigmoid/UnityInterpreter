@@ -1,0 +1,18 @@
+Grammar
+
+
+Program                : Function_Definition
+Function_Definition    : "function" ID LPAREN Paramaters RPAREN Compound_Statement
+Paramaters             : Paramater (, Paramater)*
+Paramater              : Type 
+Type                   : int | float
+Compound_Statement     : LCRLY Statement_List RCRLY 
+Statement_List         : Statement (Statement_List)*
+Statement              : Compound_Statement | Assign_Statement | Declare_Statement | Empty_Statement
+Declare_Statement      : Type Variable SEMI | Type Assign_Statement
+Assign_Statement       : Variable ASSIGN expr SEMI
+Empty                  :
+Expression             : Term ((ADD | SUB) Term)*
+Term                   : Factor ((MUL | DIV) Factor)*
+Factor                 : ADD Factor | SUB Factor | INT | LPAREN EXPR RPAREN | Variable
+Variable               : ID

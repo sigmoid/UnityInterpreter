@@ -54,9 +54,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PythonInterpreter\PythonInterpreter.csproj">
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Interpreter\Interpreter.csproj">
       <Project>{b1a118a0-bf62-4329-a359-97963092e067}</Project>
-      <Name>PythonInterpreter</Name>
+      <Name>Interpreter</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

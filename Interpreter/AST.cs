@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PythonInterpreter
+namespace Interpreter
 {
     /// <summary>
     /// Abstract Tree-based representation of a program to be interpreted or compiled.

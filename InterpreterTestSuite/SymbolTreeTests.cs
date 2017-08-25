@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PythonInterpreter;
+using Interpreter;
 
 namespace InterpreterTestSuite
 {

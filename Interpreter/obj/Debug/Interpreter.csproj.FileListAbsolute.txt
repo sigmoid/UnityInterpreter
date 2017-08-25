@@ -1,0 +1,13 @@
+F:\Github\UnityInterpreter\PythonInterpreter\bin\Debug\PythonInterpreter.exe.config
+F:\Github\UnityInterpreter\PythonInterpreter\bin\Debug\PythonInterpreter.exe
+F:\Github\UnityInterpreter\PythonInterpreter\bin\Debug\PythonInterpreter.pdb
+F:\Github\UnityInterpreter\PythonInterpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+F:\Github\UnityInterpreter\PythonInterpreter\obj\Debug\PythonInterpreter.exe
+F:\Github\UnityInterpreter\PythonInterpreter\obj\Debug\PythonInterpreter.pdb
+F:\Github\UnityInterpreter\Interpreter\bin\Debug\PythonInterpreter.exe.config
+F:\Github\UnityInterpreter\Interpreter\bin\Debug\PythonInterpreter.exe
+F:\Github\UnityInterpreter\Interpreter\bin\Debug\PythonInterpreter.pdb
+F:\Github\UnityInterpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+F:\Github\UnityInterpreter\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+F:\Github\UnityInterpreter\Interpreter\obj\Debug\PythonInterpreter.exe
+F:\Github\UnityInterpreter\Interpreter\obj\Debug\PythonInterpreter.pdb

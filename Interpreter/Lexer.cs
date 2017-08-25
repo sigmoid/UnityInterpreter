@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PythonInterpreter
+namespace Interpreter
 {
     /// <summary>
     /// Scans and tokenizes a python code file

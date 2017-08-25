@@ -7,3 +7,13 @@ C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\Inte
 C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.csprojResolveAssemblyReference.cache
 C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.dll
 C:\Users\Adam-Mac13\documents\visual studio 2015\Projects\PythonInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.pdb
+F:\Github\UnityInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.csprojResolveAssemblyReference.cache
+F:\Github\UnityInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.csproj.CoreCompileInputs.cache
+F:\Github\UnityInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.dll
+F:\Github\UnityInterpreter\InterpreterTestSuite\obj\Debug\InterpreterTestSuite.pdb
+F:\Github\UnityInterpreter\InterpreterTestSuite\bin\Debug\InterpreterTestSuite.dll
+F:\Github\UnityInterpreter\InterpreterTestSuite\bin\Debug\InterpreterTestSuite.pdb
+F:\Github\UnityInterpreter\InterpreterTestSuite\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Github\UnityInterpreter\InterpreterTestSuite\bin\Debug\PythonInterpreter.exe
+F:\Github\UnityInterpreter\InterpreterTestSuite\bin\Debug\PythonInterpreter.pdb
+F:\Github\UnityInterpreter\InterpreterTestSuite\bin\Debug\PythonInterpreter.exe.config
